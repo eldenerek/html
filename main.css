@@ -4,7 +4,7 @@
 
 body {
   background-color: #FF69B4;
-  background-image: url("https://github.com/eldenerek/html/blob/main/img/sx.jpg");
+  background-image: url("sx.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
@@ -180,7 +180,7 @@ body {
 .cart-page-inside,
 .cart-page-bottom {
   background-color: #d4d1d0;
-  background-image: url("html/img/pattern.png");
+  background-image: url("pattern.png");
   border: 20px solid #d4d1d0;
   display: -webkit-box;
   display: -moz-box;
